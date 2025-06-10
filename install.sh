@@ -43,7 +43,7 @@ echo "After that, open sound settings and select your device."
 echo "On 'profile' entry, choose 'High Fidelity Playback' and we're done."
 
 if has_not pip; then
-  sudo apt-get install python-pip python3-dev build-essential
+  sudo apt-get install python-pip python3-dev python3-venv build-essential
   sudo pip install --upgrade pip 
   sudo pip install --upgrade virtualenv
 fi
