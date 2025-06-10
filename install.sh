@@ -29,7 +29,8 @@ sudo apt-get install -y \
   dconf-editor \
   chromium-browser \
   docker docker-compose \
-  htop
+  htop \
+  steam
 
 
 
