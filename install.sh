@@ -28,7 +28,8 @@ sudo apt-get install -y \
   playonlinux \
   dconf-editor \
   chromium-browser \
-  docker docker-compose
+  docker docker-compose \
+  htop
 
 
 
