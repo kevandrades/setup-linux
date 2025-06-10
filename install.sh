@@ -25,7 +25,8 @@ sudo apt-get install -y \
   wget \
   git git-core \
   wine \
-  playonlinux
+  playonlinux \
+  dconf-editor
 
 # Headphone Bluetooth
 sudo apt-get install blueman pulseaudio-module-bluetooth
