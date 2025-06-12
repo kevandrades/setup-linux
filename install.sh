@@ -30,7 +30,8 @@ sudo apt-get install -y \
   chromium-browser \
   docker docker-compose \
   htop \
-  steam
+  steam \
+  gimp
 
 
 
