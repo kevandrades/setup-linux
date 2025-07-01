@@ -27,11 +27,9 @@ sudo apt-get install -y \
   wine \
   playonlinux \
   dconf-editor \
-  chromium-browser \
   docker docker-compose \
   htop \
-  steam \
-  gimp
+  steam
 
 
 
@@ -68,5 +66,6 @@ flatpak install flathub com.vscodium.codium              -y;
 flatpak install flathub org.chromium.Chromium            -y;
 flatpak install flathub org.kde.krdc                     -y;
 flatpak install flathub org.telegram.desktop             -y;
+flatpak install flathub org.gimp.GIMP                    -y;
 
 ok "Installation finished!"
