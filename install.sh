@@ -32,8 +32,6 @@ sudo apt-get install -y \
   steam
 
 
-
-wget https://code.visualstudio.com/docs/?dv=linux64_deb; 
 # Headphone Bluetooth
 sudo apt-get install blueman pulseaudio-module-bluetooth
 pactl load-module module-bluetooth-discover
