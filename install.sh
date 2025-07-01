@@ -60,4 +60,13 @@ ok "OH My ZSH"
 sudo apt-get autoclean -y
 sudo apt-get autoremove -y
 
+
+flatpak install flathub app.zen_browser.zen              -y;
+flatpak install flathub com.github.d4nj1.tlpui           -y;
+flatpak install flathub com.mattjakeman.ExtensionManager -y;
+flatpak install flathub com.vscodium.codium              -y;
+flatpak install flathub org.chromium.Chromium            -y;
+flatpak install flathub org.kde.krdc                     -y;
+flatpak install flathub org.telegram.desktop             -y;
+
 ok "Installation finished!"
