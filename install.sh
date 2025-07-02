@@ -65,5 +65,7 @@ flatpak install flathub org.chromium.Chromium            -y;
 flatpak install flathub org.kde.krdc                     -y;
 flatpak install flathub org.telegram.desktop             -y;
 flatpak install flathub org.gimp.GIMP                    -y;
+flatpak install flathub com.bitwarden.desktop            -y;
 
 ok "Installation finished!"
+
